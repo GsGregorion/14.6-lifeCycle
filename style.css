@@ -1,0 +1,28 @@
+body {
+    padding: 15px;
+}
+
+.result {
+    background-color: grey;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 12px;
+    text-align: center;
+}
+
+.first-app button {
+    width: 100px;
+    height: 85px;
+    background-color: rgb(29, 29, 85);
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 12px auto;
+}
+
+.changeProps {
+    background-color: red;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 12px;
+    text-align: right;
+}
